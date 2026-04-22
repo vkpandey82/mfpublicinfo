@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ea95faf-0875-406b-a315-7eabec431ca1" name="Changes" comment="Manual push" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/vkpandey/IdeaProjects/mfpublicinfo" value="2q2CRMT2QhixeUVCDTS3QiFv7sz" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="edit-panel" value="GPT-5 mini" />
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+    </selectedModels>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vkpandey82&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vkpandey82/mfpublicinfo.git&quot;,
+    &quot;accountId&quot;: &quot;0918ecc6-f4b1-4fec-ad55-de33bee969f9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2q2CRMT2QhixeUVCDTS3QiFv7sz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.CSV/TSV/PSV&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea95faf-0875-406b-a315-7eabec431ca1" name="Changes" comment="" />
+      <created>1733851273730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733851273730</updated>
+    </task>
+    <task id="LOCAL-00256" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1774923764012</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1774923764013</updated>
+    </task>
+    <task id="LOCAL-00257" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1774959690310</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1774959690310</updated>
+    </task>
+    <task id="LOCAL-00258" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775062698401</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1775062698401</updated>
+    </task>
+    <task id="LOCAL-00259" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775094776038</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1775094776038</updated>
+    </task>
+    <task id="LOCAL-00260" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775098972999</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1775098972999</updated>
+    </task>
+    <task id="LOCAL-00261" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775114373276</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1775114373276</updated>
+    </task>
+    <task id="LOCAL-00262" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775146797524</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1775146797524</updated>
+    </task>
+    <task id="LOCAL-00263" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775194559005</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1775194559005</updated>
+    </task>
+    <task id="LOCAL-00264" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775197695713</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1775197695713</updated>
+    </task>
+    <task id="LOCAL-00265" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775220061493</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1775220061493</updated>
+    </task>
+    <task id="LOCAL-00266" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775269389978</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1775269389978</updated>
+    </task>
+    <task id="LOCAL-00267" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775488181296</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1775488181296</updated>
+    </task>
+    <task id="LOCAL-00268" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775530540113</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1775530540113</updated>
+    </task>
+    <task id="LOCAL-00269" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775538962802</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1775538962802</updated>
+    </task>
+    <task id="LOCAL-00270" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775576544525</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1775576544525</updated>
+    </task>
+    <task id="LOCAL-00271" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775615265756</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1775615265756</updated>
+    </task>
+    <task id="LOCAL-00272" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775635580544</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1775635580544</updated>
+    </task>
+    <task id="LOCAL-00273" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775666955061</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1775666955061</updated>
+    </task>
+    <task id="LOCAL-00274" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775669652653</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1775669652654</updated>
+    </task>
+    <task id="LOCAL-00275" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775701519973</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1775701519973</updated>
+    </task>
+    <task id="LOCAL-00276" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775714622934</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1775714622934</updated>
+    </task>
+    <task id="LOCAL-00277" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775748882740</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1775748882740</updated>
+    </task>
+    <task id="LOCAL-00278" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775789660237</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1775789660237</updated>
+    </task>
+    <task id="LOCAL-00279" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775796907046</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1775796907046</updated>
+    </task>
+    <task id="LOCAL-00280" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775835992004</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1775835992004</updated>
+    </task>
+    <task id="LOCAL-00281" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775842359349</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1775842359349</updated>
+    </task>
+    <task id="LOCAL-00282" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1775887253682</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1775887253682</updated>
+    </task>
+    <task id="LOCAL-00283" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776142684270</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1776142684270</updated>
+    </task>
+    <task id="LOCAL-00284" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776146246328</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1776146246329</updated>
+    </task>
+    <task id="LOCAL-00285" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776271238576</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1776271238577</updated>
+    </task>
+    <task id="LOCAL-00286" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776304841382</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1776304841382</updated>
+    </task>
+    <task id="LOCAL-00287" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776314583211</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1776314583211</updated>
+    </task>
+    <task id="LOCAL-00288" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776352164554</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1776352164554</updated>
+    </task>
+    <task id="LOCAL-00289" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776361268096</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1776361268096</updated>
+    </task>
+    <task id="LOCAL-00290" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776392287389</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1776392287389</updated>
+    </task>
+    <task id="LOCAL-00291" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776402301053</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1776402301054</updated>
+    </task>
+    <task id="LOCAL-00292" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776444364830</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1776444364830</updated>
+    </task>
+    <task id="LOCAL-00293" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776447255220</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1776447255220</updated>
+    </task>
+    <task id="LOCAL-00294" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776487665819</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1776487665819</updated>
+    </task>
+    <task id="LOCAL-00295" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776490541740</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1776490541740</updated>
+    </task>
+    <task id="LOCAL-00296" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776699127838</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1776699127838</updated>
+    </task>
+    <task id="LOCAL-00297" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776732718726</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1776732718726</updated>
+    </task>
+    <task id="LOCAL-00298" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776738940604</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1776738940604</updated>
+    </task>
+    <task id="LOCAL-00299" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776748063518</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1776748063518</updated>
+    </task>
+    <task id="LOCAL-00300" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776787594163</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1776787594163</updated>
+    </task>
+    <task id="LOCAL-00301" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776809827378</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1776809827378</updated>
+    </task>
+    <task id="LOCAL-00302" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776825258554</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1776825258554</updated>
+    </task>
+    <task id="LOCAL-00303" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776864225039</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1776864225039</updated>
+    </task>
+    <task id="LOCAL-00304" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1776873028484</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1776873028484</updated>
+    </task>
+    <option name="localTasksCounter" value="305" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25082025_M" />
+    <MESSAGE value="25082025_N" />
+    <MESSAGE value="26082025_M" />
+    <MESSAGE value="26082025_N" />
+    <MESSAGE value="27082025_N" />
+    <MESSAGE value="28082025_N" />
+    <MESSAGE value="29082025_M" />
+    <MESSAGE value="29082025_N" />
+    <MESSAGE value="30082025_M" />
+    <MESSAGE value="01092025_N" />
+    <MESSAGE value="02092025_M" />
+    <MESSAGE value="02092025_N" />
+    <MESSAGE value="03092025_M" />
+    <MESSAGE value="03092025_N" />
+    <MESSAGE value="04092025_M" />
+    <MESSAGE value="04092025_N" />
+    <MESSAGE value="05092025_M" />
+    <MESSAGE value="05092025_N" />
+    <MESSAGE value="06092025_M" />
+    <MESSAGE value="08092025_N" />
+    <MESSAGE value="09092025_M" />
+    <MESSAGE value="13092025_M" />
+    <MESSAGE value="Ter update" />
+    <MESSAGE value="Add Nasdaq TER" />
+    <MESSAGE value="Manual push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manual push" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
