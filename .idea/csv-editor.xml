@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/instruments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/nse_indices.csv">
           <value>
             <Attribute>
