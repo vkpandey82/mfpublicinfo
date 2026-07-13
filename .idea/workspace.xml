@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea95faf-0875-406b-a315-7eabec431ca1" name="Changes" comment="Manual push">
-      <change beforePath="$PROJECT_DIR$/ter.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ter.csv" afterDir="false" />
-    </list>
+    <list default="true" id="1ea95faf-0875-406b-a315-7eabec431ca1" name="Changes" comment="Manual push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,14 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733851273730</updated>
-    </task>
-    <task id="LOCAL-00262" summary="Manual push">
-      <option name="closed" value="true" />
-      <created>1775146797524</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1775146797524</updated>
     </task>
     <task id="LOCAL-00263" summary="Manual push">
       <option name="closed" value="true" />
@@ -475,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783128574267</updated>
     </task>
-    <option name="localTasksCounter" value="311" />
+    <task id="LOCAL-00311" summary="Manual push">
+      <option name="closed" value="true" />
+      <created>1783779873791</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1783779873791</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
